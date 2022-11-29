@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python,HTML,css
-- 📫 How to reach me ...9154564017
+- 📫 How to reach me ...
 
 
 <!---
